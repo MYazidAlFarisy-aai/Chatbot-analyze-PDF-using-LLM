@@ -1,6 +1,6 @@
 # Project Build a Chatbot to Analyze PDF Documents Using LLM
 
-## Author @MYazidAlFarisy-aai
+## Author @sinanazeri
 
 ## Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from SkillsNetwork & GitHub Repository
 
